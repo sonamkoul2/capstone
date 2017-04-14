@@ -11,7 +11,7 @@ the best paths to the center on the first run. On the second run, the robot atte
 
 ### * Tools:
 
---Pre-installed Python 2.7, Numpy, Pandas, Turltle were used in this project.
+- Pre-installed Python 2.7, Numpy, Pandas, Turltle were used in this project.
 
 - To run the tester, you can do so from the command line with a command like the following: 
 - python tester.py test_maze_01.txt
